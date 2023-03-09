@@ -23,7 +23,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 
 Esse projeto foi elaborado para web💻 </br>
 Para acessar basta clicar no link abaixo:</br>
-https://lucasmmorfim.github.io/AluraPlus/
+https://lucasmmorfim.github.io/aluraplus/
 
 ❗ Usando o Link acima pode ser que apareça bugs no projeto devido a plataforma do GITHUB ❗
 
@@ -32,7 +32,7 @@ https://lucasmmorfim.github.io/AluraPlus/
 -Para executar na sua maquina aconselho usar o VS Code e o Live Server
 
 #Baixe o repositório ou clone digitando:
-https://github.com/LucasMMorfim/AluraPlus.git
+https://github.com/LucasMMorfim/aluraplus.git
 
 #Entre na pasta do projeto e execute o Index.html com o Live Server
 
