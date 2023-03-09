@@ -6,10 +6,11 @@ Um projeto em HTML e CSS, BOOTSTRAP junto com a ALURA feito para demonstrar meus
 
 ## 🎨 Layout
 
-![image](https://github.com/LucasMMorfim/Projeto-Jogo-mata-mosquito/blob/main/imagens-demonstracao/HOME.png)
-![image](https://github.com/LucasMMorfim/Projeto-Jogo-mata-mosquito/blob/main/imagens-demonstracao/GAME.png)
-![image](https://github.com/LucasMMorfim/Projeto-Jogo-mata-mosquito/blob/main/imagens-demonstracao/GAMEOVER.png)
-![image](https://github.com/LucasMMorfim/Projeto-Jogo-mata-mosquito/blob/main/imagens-demonstracao/WIN.png)
+![image](https://github.com/LucasMMorfim/aluraplus/blob/main/img-demonstracao/img1.png)
+![image](https://github.com/LucasMMorfim/aluraplus/blob/main/img-demonstracao/img2.png)
+![image](https://github.com/LucasMMorfim/aluraplus/blob/main/img-demonstracao/img3.png)
+![image](https://github.com/LucasMMorfim/aluraplus/blob/main/img-demonstracao/img4.png)
+![image](https://github.com/LucasMMorfim/aluraplus/blob/main/img-demonstracao/img5.png)
 
 ## 🛠 Tecnologias
 
