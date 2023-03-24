@@ -32,7 +32,7 @@ https://lucasmmorfim.github.io/aluraplus/
 -Para executar na sua maquina aconselho usar o VS Code e o Live Server
 
 #Baixe o repositório ou clone digitando:
-https://github.com/LucasMMorfim/aluraplus.git
+git clone https://github.com/LucasMMorfim/aluraplus.git
 
 #Entre na pasta do projeto e execute o Index.html com o Live Server
 
